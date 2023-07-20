@@ -7,9 +7,13 @@ Le but de ce dépôt est de présenter une nouvelle version du site web du proje
 ## Project description
 
 - New modeling Figma
+- webpack + optimisation modules
+- Sass
 - Image optimisation
+    - webp format
     - use json for galery
-    - 
+    - use spirite for logo
+<br>
 
 ## Figma modeling
 
