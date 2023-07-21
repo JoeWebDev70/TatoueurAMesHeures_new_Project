@@ -13,6 +13,7 @@ Le but de ce dépôt est de présenter une nouvelle version du site web du proje
     - webp format
     - use json for galery
     - use spirite for logo
+- Use a dynamic link in gallery to return on the top instead of fixed links situated between sections
 <br>
 
 ## Figma modeling
