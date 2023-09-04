@@ -18,7 +18,7 @@ Le but de ce dépôt est de présenter une nouvelle version du site web du proje
 
 ## Figma modeling
 
-Access to the <a href="https://www.figma.com/file/S3cVWE5yt8C0riEWPWqyJ6/TatoueurAMesHeures_new?type=design&node-id=0%3A1&mode=design&t=GZv7o9RMpYJ3DT30-13">figma</a> file.
+Access to <a href="https://www.figma.com/file/S3cVWE5yt8C0riEWPWqyJ6/TatoueurAMesHeures_new?type=design&node-id=0%3A1&mode=design&t=GZv7o9RMpYJ3DT30-13">figma</a> 
 
 ### Home
 <img src="./TatoueurAMesHeures_new_figma/accueil.webp" alt="Home" height="800">
